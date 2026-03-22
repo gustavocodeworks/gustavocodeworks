@@ -8,6 +8,7 @@ Currently studying:
 - MySQL
 - API
 - Backend development
+
 Current project:
 - Developing an online sales and shopping website
 
