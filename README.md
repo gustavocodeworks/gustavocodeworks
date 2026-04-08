@@ -7,6 +7,7 @@ Currently studying:
 - Node.js
 - MySQL
 - API
+- JWT
 - Backend development
 
 Current project:
