@@ -6,11 +6,8 @@ Currently studying:
 - JavaScript
 - Node.js
 - MySQL
-- API
+- APIs
 - JWT
 - Backend development
-
-Current project:
-- Developing an online sales and shopping website
 
 I enjoy building projects and improving my programming skills.
